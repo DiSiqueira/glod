@@ -19,7 +19,7 @@ const (
 )
 
 const (
-	linkDownload        = "http://www.youtube.com/get_video_info?&video_id="
+	linkDownload        = "https://www.youtube.com/get_video_info?&video_id="
 	album        string = "playlist"
 	isFail       string = "status=ok"
 )
